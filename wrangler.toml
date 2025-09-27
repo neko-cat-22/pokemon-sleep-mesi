@@ -1,3 +1,3 @@
 name = "pokemon-sleep-mesi"
-main = "index.html"          # ← 実際のエントリーファイルへのパス
+main = "https://github.com/neko-cat-22/pokemon-sleep-mesi/blob/main/index.html"          # ← 実際のエントリーファイルへのパス
 compatibility_date = "2025-09-27"
